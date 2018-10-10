@@ -1,0 +1,112 @@
+body{
+	font-family:serif;
+}
+
+#container{
+	background-color:#FFFFFF;
+	margin-top:1%;
+	margin-bottom:1%;
+	border-radius:10px;
+	border: 1px solid;
+}
+
+.corpus{
+	font-size:20px;
+}
+
+#cabecalho{
+	padding:1% 0 1% 2%;
+	background-color:#000044;
+	border-radius: 10px 10px 0 0;
+	color:white;
+	font-size:30px;
+}
+
+#opcoes{
+	padding:2%;
+	background:#003366;
+	font-size:18px;
+	color:white;
+}
+
+#opcoes a:link{
+	color:white;
+	font-size:14px;
+	text-decoration:none;
+	word-spacing:4px;
+}
+
+#opcoes a:visited{
+	color:white;
+}
+
+#opcoes a:hover{
+	text-decoration:underline;
+}
+
+#conceitos{
+	padding-left:1%;
+	padding-top:1%;
+	padding-bottom:10px;
+}
+
+#conceitos a:link,a:visited{
+	color:black;
+	text-decoration:none;
+}
+
+#conceitos a:hover{
+	color:black;
+	text-decoration:underline;
+}
+
+#rodape{
+	padding:1% 0 1% 2%;
+	background-color:#000044;
+	border-radius: 0 0 10px 10px;
+	color:white;
+	font-size:14px;
+	text-align:center;
+}
+
+.titulo{
+	font-size:20px!important;
+	color:#FE8402!important;
+}
+
+.home{
+	text-align:right;
+	color:white!important;
+	font-size:12px;
+	text-decoration:none;
+}
+
+.detTabela{
+	text-align:center;
+	font-size:18px;
+}
+
+.destaque{
+
+	color:#4682B4!important;
+	background-color:white!important;
+	border: 1px solid #4682B4;
+}
+
+.tituloTabela{
+	background-color:#4682B4;
+	color:white;
+	padding:10px 5px;
+	
+}
+
+.colunaTabela{
+	background-color:#D3D3D3;
+	padding:10px 20px;
+}
+
+.indice{
+	font-size:14px;
+}
+
+	
